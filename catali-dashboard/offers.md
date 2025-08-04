@@ -127,7 +127,8 @@ In the **Reservation Settings** window:
 2.  Choose the `Meeting Service` (e.g., Google Meet, phone call).
 3.  The `Show quantity count` option controls whether the number of booked items appears in confirmation emails. Turn this off if you prefer not to display this count.
 4.  Enter an optional custom `Confirmation Message` to be included in the confirmation email.
-5.  Click the **Save** button.
+5.  Enter an optional `Post attendance greeting` to be sent to customer.
+6.  Click the **Save** button.
 
 ##### Setup Product Brand
 Click the **Manage** link in the **Product Brand** section. In the window that appears:
